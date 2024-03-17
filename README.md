@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **xx-n59/xx-n59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
