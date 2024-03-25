@@ -5,5 +5,5 @@
 </p>
 
 ## Languages and Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nextjs,react,html,css,ruby,swift,firebase,supabase,postgresql,mysql,planetscale,prisma,styledcomponents,git,github,illustrator,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,nextjs,react,html,css,ruby,swift,firebase,supabase,postgresql,mysql,planetscale,prisma,styledcomponents,git,github,illustrator,figma,vscode" />
 
